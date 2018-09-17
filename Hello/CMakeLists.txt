@@ -1,6 +1,6 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 3.1)
 
-PROJECT(Hello)
+#PROJECT(Hello)
 
 ADD_LIBRARY(Hello Hello.cpp)
 
